@@ -1,0 +1,67 @@
+.ima{
+    padding-bottom: 0%;
+    position: absolute;
+    width: 47.8%;
+    height: 35%;
+    margin-left: 44%;
+    padding-right: 0.9%;
+    padding-top: 0%;
+    /*jugar b y t*/
+    border-bottom-right-radius: 3%;
+}
+body{
+    position: absolute;
+    padding-left: 4%;
+    margin-left: 3%;
+}
+.prin{
+    padding-top: 9.6%;
+    margin-right: 700px;
+    /**/
+    /*padding-bottom: 30px;
+    border-radius: 1%;*/
+    border-bottom-left-radius: 1%;
+    border-bottom-right-radius: 1%;
+}
+.pass{
+    color: gray;
+    padding-left: 122px;
+}
+.boton{
+    color: white;
+    padding-left: 145px;
+    padding-right: 145px;
+}
+.buton2{
+    padding-left: 78px;
+    padding-right: 78px;
+    /*padding-left: 14.4%;
+    padding-right: 14.4%;*/
+}
+.buton3{
+    padding-left: 74px;
+    padding-right: 74px;
+    border-radius: 0%;
+    /*padding-left: 13.5%;
+    padding-right: 13.5%;*/
+}
+.buton4{
+    padding-left: 67px;
+    padding-right: 67px;
+    /*padding-left: 12.3%;
+    padding-right: 12.3%;*/
+}
+.problemas{
+    margin-left: 93px;
+}
+.rachel{
+    margin-bottom: 7px;
+}
+.kianny{
+    margin-top: 6%;
+}
+.fabiana{
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
